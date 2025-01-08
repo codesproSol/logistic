@@ -1,6 +1,6 @@
-# Guo Logistic Landing Page
+# GAO Logistic Landing Page
 
-This is the landing page for Guo Logistic, a company offering innovative logistics solutions. The website showcases various services, including warehousing, order processing, and product delivery. It's designed to highlight key services and allow users to easily navigate through the available solutions.
+This is the landing page for GAO Logistic, a company offering innovative logistics solutions. The website showcases various services, including warehousing, order processing, and product delivery. It's designed to highlight key services and allow users to easily navigate through the available solutions.
 
 ## images
 ![image](https://github.com/user-attachments/assets/ab216b63-deca-4fbb-b4e5-0684a70bec2a)
@@ -30,7 +30,7 @@ To run this project locally, follow the steps below:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/guo-logistic-landing-page.git
+   git clone https://github.com/your-username/logistice.git
 
 
 
